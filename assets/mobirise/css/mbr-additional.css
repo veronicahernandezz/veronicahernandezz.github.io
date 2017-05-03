@@ -741,10 +741,6 @@ h6,
   background-color: #587584;
   border-color: #587584;
 }
-#header3-12 .mbr-section-title,
-#header3-12 .mbr-section-subtitle {
-  text-align: center;
-}
 #ext_menu-15 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -763,11 +759,11 @@ h6,
   color: #ffffff;
 }
 #ext_menu-15 .link {
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 #ext_menu-15 .dropdown-item,
 #ext_menu-15 .nav-dropdown-sm .link {
-  font-size: 1.083rem;
+  font-size: 0.921rem;
 }
 #ext_menu-15 .link:hover,
 #ext_menu-15 .dropdown-item:hover,
@@ -805,6 +801,9 @@ h6,
 #ext_menu-15 .link[aria-expanded="true"],
 #ext_menu-15 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-1a .mbr-section-title {
+  font-size: 60px;
 }
 #msg-box2-1t .mbr-section-title {
   color: #fff;
